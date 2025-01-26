@@ -21,6 +21,6 @@ This dataset comprises anonymous user study participant responses of audio occlu
 
 ## References
 
-S. McSeveney, M. Tamariz, I. MacGregor, B. Koniaris, K. Mitchell : [Auditory Occlusion Based on the Human Body in the Direct Sound Path: Measured and Perceivable Effects]([https://napier-repository.worktribe.com/output/3492930/dancemark-an-open-telemetry-framework-for-latency-sensitive-real-time-networked-immersive-experiences](https://dl.acm.org/doi/proceedings/10.1145/3678299)), in 2024: Proceedings of the 19th International Audio Mostly Conference: Explorations in Sonic Cultures.
+S. McSeveney, M. Tamariz, I. MacGregor, B. Koniaris, K. Mitchell : [Auditory Occlusion Based on the Human Body in the Direct Sound Path: Measured and Perceivable Effects](https://dl.acm.org/doi/proceedings/10.1145/3678299), in 2024: Proceedings of the 19th International Audio Mostly Conference: Explorations in Sonic Cultures.
 
 D. Sinclair, A. Ademola, B. Koniaris, K. Mitchell: _[DanceGraph: A Complementary Architecture for Synchronous Dancing Online](https://farpeek.com/DanceGraph.pdf)_, 2023 36th International Computer Animation & Social Agents (CASA) . 
