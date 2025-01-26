@@ -1,5 +1,5 @@
 <h2 align="center">Audio Occlusion</h2>
-<p align="center">Auditory Occlusion Based on the Human Body in the Direct Sound Path with Measured and Perceivable Effects is a technology of Edinburgh Napier University contributing as part of the [![DanceGraph](https://github.com/CarouselDancing/dancegraph) engine agnostic interactive avatar platform for dancing and having fun online. It is provided as an open source dataset from the <a href="https://carouseldancing.org">CAROUSEL+</a> EU funded FET PROACT project #101017779</p>
+<p align="center">Auditory Occlusion Based on the Human Body in the Direct Sound Path with Measured and Perceivable Effects is a technology of Edinburgh Napier University contributing as part of the <a href="https://github.com/CarouselDancing/dancegraph">DanceGraph</a> engine agnostic interactive avatar platform for dancing and having fun online. It is provided as an open source dataset from the <a href="https://carouseldancing.org">CAROUSEL+</a> EU funded FET PROACT project #101017779</p>
 <div align="center">
 
 [![Carousel Dancing Discord](https://dcbadge.vercel.app/api/server/eMcjUHN8rQ?style=flat)](https://discord.gg/eMcjUHN8rQ)
